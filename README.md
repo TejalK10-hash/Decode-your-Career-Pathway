@@ -1,4 +1,4 @@
-# Decode Your Career Pathways 🎓
+# Decode Your Career Pathways
 
 A little quiz app I built to help high schoolers (like me) figure out what career path might actually fit them — instead of just picking a field because it sounds impressive or "safe."
 
